@@ -1,0 +1,5 @@
+config/
+data_dir/
+train_model/
+__pycache__/
+
