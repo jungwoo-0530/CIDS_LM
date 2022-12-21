@@ -163,7 +163,7 @@
 
 ## FrontEnd(React)&BackEnd(Spring)
 
-- [Frontend](https://github.com/jungwoo-0530/CIDS_Front)
+- [Frontend(React)](https://github.com/jungwoo-0530/CIDS_Front)
 - [Backend(Spring)](https://github.com/jungwoo-0530/CIDS_Spring)
 
 
