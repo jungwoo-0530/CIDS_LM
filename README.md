@@ -23,7 +23,7 @@
   - [기능 명세서](#기능-명세서)
   - [API 명세서](#API-명세서)
   - [DB 명세서](#DB-명세서)
-- [FrontEnd & BackEnd(Spring)](#FrontEndBackEndSpring)
+- [FrontEnd(React) & BackEnd(Spring)](#FrontEndReactBackEndSpring)
 
 
 
@@ -161,7 +161,7 @@
 
 <img src="img/Screenshot of IntelliJ IDEA (2022-11-27 1-51-10 AM).png" alt="Screenshot of IntelliJ IDEA (2022-11-27 1-51-10 AM)" style="zoom:50%;" />
 
-## FrontEnd&BackEnd(Spring)
+## FrontEnd(React)&BackEnd(Spring)
 
 - [Frontend](https://github.com/jungwoo-0530/CIDS_Front)
 - [Backend(Spring)](https://github.com/jungwoo-0530/CIDS_Spring)
